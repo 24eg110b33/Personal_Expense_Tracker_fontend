@@ -1,0 +1,29 @@
+[
+  {
+    "id": "c8448e7b-c00c-4fe6-9fc6-513003b186eb",
+    "type": "expense",
+    "amount": 1000,
+    "date": "2026-10-11",
+    "category": "Food",
+    "description": "",
+    "createdAt": "2026-10-11T13:13:36.204Z"
+  },
+  {
+    "id": "84389ed0-536b-4e92-ab74-a657caa592b4",
+    "type": "income",
+    "amount": 3000,
+    "date": "2026-10-11",
+    "category": "Travel",
+    "description": "",
+    "createdAt": "2026-10-11T13:13:53.598Z"
+  },
+  {
+    "id": "18a0d68d-613f-4791-9abb-da8304f836e0",
+    "type": "expense",
+    "amount": 500,
+    "date": "2026-10-11",
+    "category": "Education",
+    "description": "",
+    "createdAt": "2026-10-11T13:14:22.787Z"
+  }
+]
