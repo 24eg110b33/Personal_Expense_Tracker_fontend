@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pennywise — Personal Expense Tracker
 
 A beginner-friendly full-stack personal finance tracker built with React, Vite, Node.js, and Express. It records income and expenses through a REST API and saves the transactions in a backend JSON file. **MySQL, MongoDB, XAMPP, and any separate database server are not required.**
@@ -216,3 +217,18 @@ git push -u origin main
 ## License
 
 MIT. See [LICENSE](LICENSE).
+# Personal Expense Tracker Frontend
+
+React and Vite frontend for the Personal Expense Tracker.
+# Frontend
+React + Vite frontend for Personal Expense Tracker.
+
+Run:
+`npm install`
+`npm run dev`
+"# personal_frontend" 
+=======
+# personal-expenses-tracker-frontend
+A frontend application for tracking personal expenses
+>>>>>>> fd91b234d93e61564bbf92e0e23401fbc4db7945
+>>>>>>> 2a97ef02ee7c789c4a3a918b47fe5fc5055416e6
